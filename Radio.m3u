@@ -1,0 +1,435 @@
+﻿#EXTM3U
+#EXTINF:-1, Radio Magica
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAG_SC
+#EXTINF:-1, Radio Moda
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
+#EXTINF:-1, Radio Moda +
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD2_S01.mp3
+#EXTINF:-1, Radio Nueva Q
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
+#EXTINF:-1, Radio La Inolvidable
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC
+#EXTINF:-1, Radio Ritmo Romantica
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC
+#EXTINF:-1, Radio Planeta
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC
+#EXTINF:-1, Radio Oasis
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
+#EXTINF:-1, Radio Mar
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
+#EXTINF:-1, Radio Inca
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_INC_SC
+#EXTINF:-1, Radio Bienestar
+https://playerservices.streamtheworld.com/api/livestream-redirect/BIENESTAR_SC
+#EXTINF:-1, Radio Exitosa
+https://7.innovatestream.pe:2020/stream/exitosaoficial/stream
+#EXTINF:-1, Radio La Kalle
+https://7.innovatestream.pe:2020/stream/lakalleoficial/stream
+#EXTINF:-1, Radio La Karibena
+https://7.innovatestream.pe:2020/stream/karibenaoficial/stream
+#EXTINF:-1, Radio Z Rock & Pop
+http://167.114.118.120:7440/;
+#EXTINF:-1, Radio Play Peru
+http://167.114.118.119:7468/;
+#EXTINF:-1, Radio Cumbia Mix
+https://streaming.gometri.com/stream/8017/stream
+#EXTINF:-1, Radio Panamericana
+https://streaming.gometri.com/stream/8000/stream
+#EXTINF:-1, Radio Onda Cero
+https://streaming.gometri.com/stream/8011/stream
+#EXTINF:-1, Radio La Nube
+https://streaming.gometri.com/stream/8025/stream
+#EXTINF:-1, Radio 1160
+https://streaming.gometri.com/stream/8021/stream
+#EXTINF:-1, Radio Full Techno
+http://184.154.28.210:7150/stream
+#EXTINF:-1, Radio La Union
+https://tupanel.info:9180/stream
+#EXTINF:-1, Radio Disney Peru
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LM.mp3
+#EXTINF:-1, Radio Discoteca 90s
+http://87.236.196.34:8904/stream
+#EXTINF:-1, Radio Dance 90s
+http://87.236.196.34:8900/stream
+#EXTINF:-1, Radio Music Okey
+http://87.236.196.34:8902/stream
+#EXTINF:-1, Pop Radio Fm
+http://87.236.196.34:8906/stream
+#EXTINF:-1, Radio Sabor
+https://stream.zeno.fm/812ksk66cfeuv
+#EXTINF:-1, Radio Baladitas
+https://stream.zeno.fm/hf2gsfm1mp8uv
+#EXTINF:-1, Radio Senal Pirata
+https://conectperu.com/8082/stream
+#EXTINF:-1, Radio Nacional Peru
+https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
+#EXTINF:-1, Radio Pbo
+https://streamingv2.shoutcast.com/pbo-radiofm
+#EXTINF:-1, Radio Estacion 90s
+https://radio.livestreamingmundial.com:7004/stream
+#EXTINF:-1, Radio Noventera 90s
+https://radiosonline.one/radio/8100/radio.mp3
+#EXTINF:-1, Radio Tena Peru
+https://stream.zeno.fm/adqatbsugs8uv
+#EXTINF:-1, Radio La Ochentera
+http://184.154.28.210:7200/stream
+#EXTINF:-1, Radio Viva Fm
+https://tupanel.info:8746/stream
+#EXTINF:-1, Radio La Poderosa
+https://turadio.accesopanel.com:7101/stream
+#EXTINF:-1, Radio Fuego Lima
+https://streamprivate.live:10956/;
+#EXTINF:-1, Radio Tentacion Suena
+https://stream.zeno.fm/18sb67xyqzzuv
+#EXTINF:-1, Radio Romanticas Inolvidables
+https://stream.zeno.fm/6m1ba7yt3vduv
+#EXTINF:-1, Radio Blud
+https://stream.zeno.fm/qa1phyhan5zuv
+#EXTINF:-1, Radio Te Pone
+https://stream.zeno.fm/v5kd5v39fv8uv
+#EXTINF:-1, Radio La Tremenda
+https://streamingraddios.online/proxy/radiolat?mp=/stream
+#EXTINF:-1, Radio Comas Fm
+http://65.60.2.26:8044/stream
+#EXTINF:-1, Radio Comas Am
+http://65.60.2.26:8046/;
+#EXTINF:-1, Radio Canto Grande
+http://65.60.2.26:8050/stream
+#EXTINF:-1, Radio Telestereo
+http://67.212.179.138:8300/;
+#EXTINF:-1, Radio Furor
+https://dattavolt.com/8188/stream
+#EXTINF:-1, Radio Santa Clara Ate
+https://stream.zeno.fm/46d0vuney98uv
+#EXTINF:-1, Radio Caliente Lima
+https://stream.zeno.fm/0g0b492hfceuv
+#EXTINF:-1, Radio La Mega
+http://cento02.mipanelradio.com/proxy/rtfcppwv?mp=//;
+#EXTINF:-1, Radio Full Peru
+http://167.114.118.119:7566/stream
+#EXTINF:-1, Radio Peru Cumbia
+http://184.154.28.210:7130/stream
+#EXTINF:-1, Cumbia Radio
+https://stream.zeno.fm/ut46b6drneruv
+#EXTINF:-1, Urban Radio
+https://stream.zeno.fm/bpwth3kkperuv
+#EXTINF:-1, Radio Fenomenal
+https://stream.zeno.fm/6wk6qg6nky8uv
+#EXTINF:-1, Radio Festival Musical
+https://stream.zeno.fm/dhwb8mc8u68uv
+#EXTINF:-1, Digital Play Fm
+https://usa2.fastcast4u.com/proxy/digitalplayfm?mp=/1
+#EXTINF:-1, Radio Sabor Mix
+https://dattavolt.com:7066/;
+#EXTINF:-1, Radio Indie Peru
+https://eu47-sonic.instainternet.com/8066/stream
+#EXTINF:-1, Radio Juerga Total
+https://sp.tvcontrolcp.com/9990/stream
+#EXTINF:-1, Radio Mi Cumbia Total
+https://panelautodj.innovatestream.pe/8006/stream
+#EXTINF:-1, Salsa Radio
+https://stream.zeno.fm/9k0p11g3teruv
+#EXTINF:-1, Rock en Espanol Radio
+https://stream.zeno.fm/16ardrv3feruv
+#EXTINF:-1, Techno Radio
+https://stream.zeno.fm/bwrw9xcgqeruv
+#EXTINF:-1, Ochentas Radio
+https://stream.zeno.fm/b751gt2uweruv
+#EXTINF:-1, Romantica Radio
+https://stream.zeno.fm/63zra6q8qeruv
+#EXTINF:-1, Radio Misterio Rock and Pop
+https://stream.zeno.fm/9vzrnp6dhhruv
+#EXTINF:-1, Radio Besame
+http://167.114.118.120:7450/stream
+#EXTINF:-1, Radio Aroma
+http://184.154.28.210:8348/;
+#EXTINF:-1, Radio Santa Rosa
+https://securestream.conectarhosting.com:8136/live
+#EXTINF:-1, Radio Oxigeno
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+#EXTINF:-1, Radio Studio 92
+https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
+#EXTINF:-1, Radio La Zona
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+#EXTINF:-1, Radio Rpp Lima
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
+#EXTINF:-1, Radio La Mega
+https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio
+#EXTINF:-1, Radio Felicidad
+https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio
+#EXTINF:-1, Radio Corazon
+https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
+#EXTINF:-1, Radio America
+https://mdstrm.com/audio/60bfd82b9488941e9d86eb1d/icecast.audio
+#EXTINF:-1, Radio Alegria
+http://ip.blstreamperu.com:9736/;
+#EXTINF:-1, Radio Capital Peru
+https://stream.zeno.fm/swbxdb3d5reuv
+#EXTINF:-1, Radio Top Latino
+https://5cefcbf58ba2e.streamlock.net/latino/latino.stream/playlist.m3u8
+#EXTINF:-1, Radio La Vaca
+https://streaming.gometri.com/stream/8007/stream
+#EXTINF:-1, Radio Generacion Kpop
+https://stream9.mexiserver.com/8242/stream
+#EXTINF:-1, Radio Portal Cumbia
+https://portalcumbia.radioca.st/stream
+#EXTINF:-1, Salsa Peru
+https://sc10.conectarhosting.com/proxy/carlos?mp=/;
+#EXTINF:-1, Radio La Hispana
+http://184.154.28.210:7100/stream
+#EXTINF:-1, Radio Buenaza
+https://turadio.accesopanel.com/8486/stream
+#EXTINF:-1, Radio K-pop Peru
+https://streamprivate.live:10977/stream
+#EXTINF:-1, Radio Music 80s Stereo
+https://stream.zeno.fm/t282h0es1f8uv
+#EXTINF:-1, Radio Go! Latino
+https://antonyokumura.radioca.st/;
+#EXTINF:-1, Radio Fans
+https://sp.onliveperu.com/8148/stream
+#EXTINF:-1, Radio Mundo X
+https://stream.zeno.fm/8hv6f42c3v8uv
+#EXTINF:-1, Radio Apolo
+https://conectperu.com:7141/;
+#EXTINF:-1, Radio La Sanjuanera
+http://65.60.2.26:8178/stream
+#EXTINF:-1, Radio Inkafuego
+https://eu1.serviaudio.com/8036/stream
+#EXTINF:-1, Radio Kpopway
+https://streamer.radio.co/s06b196587/listen
+#EXTINF:-1, Radio Angel
+https://stream.zeno.fm/y116c3v1tmzuv
+#EXTINF:-1, Radio Mix
+https://stream.zeno.fm/6uxq6nw4nbruv
+#EXTINF:-1, Radio Imperio Kpop
+https://zeus.miradio.pro/radio/8140/stream
+#EXTINF:-1, Radio Bacan Sat
+https://stream.zeno.fm/hkrn8c68tc9uv
+#EXTINF:-1, Radio Latarima
+https://stream.zeno.fm/eqm11zap1wzuv
+#EXTINF:-1, Radio Music Peru
+https://sp.dattavolt.com/8014/stream
+#EXTINF:-1, Radio Lola Fm
+https://turadio.accesopanel.com/8610/stream
+#EXTINF:-1, Radio Fama
+http://65.60.2.26:6116/;
+#EXTINF:-1, Radio Sonica Fm Peru
+https://streamprivate.live:10979/stream
+#EXTINF:-1, Radio Diamante Rock & Soft
+https://stream.zeno.fm/8s6b3v091k8uv
+#EXTINF:-1, Radio Chocolate Rock & Pop
+https://stream.zeno.fm/g2w7ukzh64zuv
+#EXTINF:-1, Radio El Oso
+https://stream.zeno.fm/5nq5cy93uwzuv
+#EXTINF:-1, Radio Planicie Peru
+https://stream.zeno.fm/cn5q23pum9duv
+#EXTINF:-1, Radio Grial
+https://stream.zeno.fm/hqwcct8d898uv
+#EXTINF:-1, Radio Cima
+https://sonic.dattassd.com/8210/stream
+#EXTINF:-1, Radio Lider
+https://conectperu.com:7145/;
+#EXTINF:-1, Radio Rock Hits
+https://topradio.one:8051/autodj
+#EXTINF:-1, Radio Enmanuel
+https://conectperu.com/8220/stream
+#EXTINF:-1, Radio Renovadoxcristo online
+https://miradio.aldata504.com/8420/stream
+#EXTINF:-1, Radio 90s Chimbote
+https://stream.zeno.fm/w1r13grcvqzuv
+#EXTINF:-1, Radio Melodias del Ande
+https://sonic.globalstream.pro/7050/stream
+#EXTINF:-1, Radio Vj Retro Merengue Salsa
+https://stream.zeno.fm/7kgmzcm0gd0uv
+#EXTINF:-1, Radio Vj Online Regueton Electro
+https://stream.zeno.fm/mtt9k2erz1zuv
+#EXTINF:-1, Radio Vj Rock And Pop
+https://stream.zeno.fm/v96hsuxnc18uv
+#EXTINF:-1, Radio La Sonera
+http://184.154.28.210:9390/stream
+#EXTINF:-1, Radio Impactor
+https://sonic.dattassd.com:10840/stream
+#EXTINF:-1, Radio Oriente
+https://sonic.dattassd.com/9312/stream
+#EXTINF:-1, Radio Mega Stereo
+https://conectperu.com/8082/stream
+#EXTINF:-1, Radio Shadybeer
+https://stream.zeno.fm/mkpe3p40dnzuv
+#EXTINF:-1, Radio Victoria
+http://65.60.45.74:8156/;
+#EXTINF:-1, Radio Peru Vision
+http://198.204.234.10:8525/stream
+#EXTINF:-1, Radio Alondra Peru
+http://167.114.118.119:8100/;
+#EXTINF:-1, Radio Surce Peru
+http://173.208.177.90:21820/;stream/1
+#EXTINF:-1, Radio Respuesta
+https://streamlive2.hearthis.at:8000/10076632.ogg
+#EXTINF:-1, Radio Sucre Peru
+https://server.streamingradios.net:7059/stream
+#EXTINF:-1, Radio Diaspora
+https://server6.globalhostla.com:9156/stream
+#EXTINF:-1, Radio Filarmoria
+http://c22.radioboss.fm:8100/stream
+#EXTINF:-1, Radio Abn
+https://jml-stream.com/radio/8000/radio.mp3
+#EXTINF:-1, Radio Domino
+https://radiodomino-zikoxweb.radioca.st/;
+#EXTINF:-1, Radio Caleta
+https://radio.trixserver.com:18016/;chemo.mp3
+#EXTINF:-1, Radio Boulevard Zarate
+https://stream.zeno.fm/scnfxcqndkeuv
+#EXTINF:-1, Radio Puro Sur Fm
+https://eu2.serviaudio.com/8044/;
+#EXTINF:-1, Radio Vesanico
+https://server.streamingradios.net/8012/stream
+#EXTINF:-1, Radio Rocksour
+https://s2.radio.co/se3d84e29f/listen
+#EXTINF:-1, Radio Los Andes
+https://conectperu.com/8282/;
+#EXTINF:-1, Radio Alpha Stereo
+https://stream.zeno.fm/n3cytpun0d0uv
+#EXTINF:-1, Radio Baladas en Ingles
+https://stream.zeno.fm/bft6qepmuqruv
+#EXTINF:-1, Radio La N
+https://stream.zeno.fm/tk4wmqvnnnruv
+#EXTINF:-1, Radio Retro Peru
+https://stream.zeno.fm/v8b6uyvf9s8uv
+#EXTINF:-1, Radio Salsa Calle Latina
+https://stream.zeno.fm/xeqzu6fdbnruv
+#EXTINF:-1, Radio del Amor
+https://stream.zeno.fm/dzed0u64gd0uv
+#EXTINF:-1, Radio Bolero Inolvidables
+https://stream.zeno.fm/b10wvksv7mruv
+#EXTINF:-1, Radio 80s
+https://stream.zeno.fm/8r63mbpeanruv
+#EXTINF:-1, Radio Enamorados
+https://stream.zeno.fm/b594gnc1fnruv
+#EXTINF:-1, Radio Smooth Jazz
+https://stream.zeno.fm/vs9wvrdm7k8uv
+#EXTINF:-1, Radio Exito Fm
+https://stream.zeno.fm/651huda8xa0uv
+#EXTINF:-1, Radio Wayra Lima
+https://stream.zeno.fm/szx06z790neuv
+#EXTINF:-1, Radio Kandela
+https://stream.zeno.fm/fr78xb3etkeuv
+#EXTINF:-1, Radio Original
+https://stream.zeno.fm/n3ypkvrv1reuv
+#EXTINF:-1, Radio Tayabamba
+https://stream.zeno.fm/3p8e4e8p3reuv
+#EXTINF:-1, Radio Piruwton
+https://stream.zeno.fm/3gtere10dtzuv
+#EXTINF:-1, Radio Od Noticias
+https://conectperu.com/8354/stream
+#EXTINF:-1, Radio Ritmo y Romance
+https://stream.zeno.fm/5keayk7qvueuv
+#EXTINF:-1, Radio Aeroestereo
+https://conectperu.com:7025/stream
+#EXTINF:-1, Radio Armonia
+https://stream.zeno.fm/ff945abnzeruv
+#EXTINF:-1, Radio Onda Digital
+https://conectperu.com:7089/;
+#EXTINF:-1, Radio La Luz
+http://radio.transmite.pe:9310/stream
+#EXTINF:-1, Radio Sjl
+https://stream.zeno.fm/9bpf54sn17zuv
+#EXTINF:-1, Radio Sensacion
+https://conectperu.com/8218/stream
+#EXTINF:-1, Radio La Salsa Maestra
+https://stream.zeno.fm/c1skkw28pfeuv
+#EXTINF:-1, Radio Estacion Paraiso
+https://cloudstream2034.conectarhosting.com/8202/stream
+#EXTINF:-1, Radio Folk Peru
+https://stream.zeno.fm/baxwy8zv3gruv
+#EXTINF:-1, Radio Tonera
+https://streamingv2.shoutcast.com/la-tonera-se-pega
+#EXTINF:-1, Radio Super Stereo Lima
+https://streamingv2.shoutcast.com/super-stereo-lima
+#EXTINF:-1, Radio Super Stereo Lima
+http://65.60.45.74:8054/live
+#EXTINF:-1, Radio Amer
+https://sonic.dattassd.com/8090/stream
+#EXTINF:-1, Radio Open
+https://stream2.eistreaming.com:7003/;
+#EXTINF:-1, Radio Metal Warriors Peru
+https://metallerium.com:8124/stream
+#EXTINF:-1, Radio Cantemos
+https://cloudstream2034.conectarhosting.com/8160/stream
+#EXTINF:-1, Radio Zulma
+https://stream.zeno.fm/h50gxz07hg8uv
+#EXTINF:-1, Radio La Tonera
+https://stream.zeno.fm/aecvwv0tgs8uv
+#EXTINF:-1, Radio La Uncion
+https://stream.zeno.fm/k82m7qs43k0uv
+#EXTINF:-1, Radio Mariano Fm
+https://stream.zeno.fm/3avgfyf18vzuv
+#EXTINF:-1, Radio Cristianos
+https://stream.zeno.fm/gq6w7shws98uv
+#EXTINF:-1, Radio All Star Rock & Pop on Line
+https://stream.zeno.fm/b0quq57xrbruv
+#EXTINF:-1, Radio Perfeccion Peru
+https://radio.streamseguro.com/proxy/radioperfeccion/stream
+#EXTINF:-1, Radio Fenix Lima
+https://streamingv2.shoutcast.com/radio-fenix-lima
+#EXTINF:-1, Radio Techno Lovers Peru
+https://stream.zeno.fm/h1ecv3tzttzuv
+#EXTINF:-1, Radio Ataque Techno Peru
+https://streamprivate.live:10982/stream
+#EXTINF:-1, Radio Peruana
+http://78.129.185.84:28123/;
+#EXTINF:-1, Radio Hisparockas
+https://stream.zeno.fm/nhu7v3guz08uv
+#EXTINF:-1, Radio Flashback
+https://stream.zeno.fm/3n0n8dqkq18uv
+#EXTINF:-1, Radio Level Hits
+https://radio.pjcks.com/7234/stream
+#EXTINF:-1, Radio Ovacion
+https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8
+#EXTINF:-1, Radio Exito Peru
+http://67.212.179.138:7200/;stream/1;
+#EXTINF:-1, Radio Fuego Cristiano
+https://cloudstream2034.conectarhosting.com:7213/stream
+#EXTINF:-1, Radio Miraflores
+https://eu47-sonic.instainternet.com/8016/;
+#EXTINF:-1, Radio Samanta
+https://streamingv2.shoutcast.com/SAMANTALASENALJUVENIL
+#EXTINF:-1, Radio Bethel
+https://tampa.audio-stream.com/proxy/bethelra?mp=/stream
+#EXTINF:-1, Radio Maria Peru
+https://dreamsiteradiocp6.com/proxy/rmperu?mp=/stream
+#EXTINF:-1, Radio San Borja Fm
+https://5c3fb01839654.streamlock.net:1963/ipradiosanborja/livesanborjaradio/playlist.m3u8
+#EXTINF:-1, Radio Mariella Fm
+https://streamprivate.live/8088/stream
+#EXTINF:-1, Radio Asia Word
+http://sirius.shoutca.st:8019/;
+#EXTINF:-1, Radio Son
+http://rol.sistemas4g.com:6110/;
+#EXTINF:-1, Radio Stereo Villa
+https://sp.stream507.com/8022/stream
+#EXTINF:-1, Radio Power
+https://stream.zeno.fm/znk64aytgzzuv
+#EXTINF:-1, Radio Cielo
+http://167.114.118.120:7342/;stream/1;
+#EXTINF:-1, Rri Peru
+https://dattavolt.com/8164/stream
+#EXTINF:-1, Radio Sjl
+https://streamprivate.live/8190/stream
+#EXTINF:-1, Radio Studio 40
+http://streaming511.radionomy.com/la-tonera-se-pega
+#EXTINF:-1, Radio Nuevo Tiempo
+https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/playlist.m3u8
+#EXTINF:-1, Radio Jov
+https://streamprivate.live/8198/stream
+#EXTINF:-1, Radio Espacial
+https://server.streamingradios.net:7031/;
+#EXTINF:-1, Radio Super Amor
+http://167.114.118.119:7950/stream
+#EXTINF:-1, Radio Doble Nueve Live
+http://149.56.241.147:8002/stream
+#EXTINF:-1, Radio Doble Nueve Millennial
+http://149.56.241.147:8004/stream
+#EXTINF:-1, Radio Doble Nueve Heritalge
+http://149.56.241.147:8006/stream
+#EXTINF:-1, Radio Doble Nueve Classic
+http://149.56.241.147:8008/stream
