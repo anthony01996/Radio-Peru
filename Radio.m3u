@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1, Radio Magica
 https://playerservices.streamtheworld.com/api/livestream-redirect/MAG_SC
 #EXTINF:-1, Radio Moda
@@ -48,7 +48,7 @@ https://tupanel.info:9180/stream
 #EXTINF:-1, Radio Disney Peru
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LM.mp3
 #EXTINF:-1, Radio Discoteca 90s
-http://87.236.196.34:8904/stream
+http://87.236.196.34:8918/stream
 #EXTINF:-1, Radio Dance 90s
 http://87.236.196.34:8900/stream
 #EXTINF:-1, Radio Music Okey
